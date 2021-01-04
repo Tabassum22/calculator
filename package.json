@@ -1,0 +1,16 @@
+{
+  "name": "week6",
+  "version": "1.0.0",
+  "description": "simple calculator",
+  "main": "calc.js",
+  "dependencies": {
+    "readline": "^1.3.0",
+    "readline-sync": "^1.4.10"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tabs",
+  "license": "ISC"
+}
